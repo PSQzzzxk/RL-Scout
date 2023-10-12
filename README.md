@@ -8,9 +8,9 @@ In this study, we present a reinforcement learning based multimodal architecture
 *Note: The code for this study will soon be open source.*
 
 <p align = "center">
-<img src="pictures/1.png" width = "320" height = "184" border="5" />
-<img src="pictures/2.png" width = "320" height = "184" border="5" />
-<img src="pictures/3.jpg" width = "320" height = "184" border="5" />
+<img src="pictures/1.png" width = "280" height = "158" border="5" />
+<img src="pictures/2.png" width = "280" height = "158" border="5" />
+<img src="pictures/3.jpg" width = "280" height = "158" border="5" />
 </p>
 
 # Licence
